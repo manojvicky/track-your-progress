@@ -1,0 +1,45 @@
+August
+
+Time Table
+05 August – 15 August (10 days)
+
+Monday, Thursday, Friday	
+	
+1.	Docker (first 1hr)
+2.	Typescript or YDJS (mid ½ hr)	
+
+08:00 AM - 09:00AM	Fresh, book, newspaper and meditation
+09:00 AM - 11:00 AM	Office
+11:00 AM - 01:00 PM	Gym
+01:00 PM - 06:00 PM	office
+06:00 PM - 08:00 PM	gym
+08:00 PM – 10:00 PM	study
+10:00 PM – 08:00 AM	sleep
+
+Tuesday and Wednesday	
+	
+1.	Docker (first 1hr)
+2.	Typescript or YDJS (mid ½ hr)	
+06:00 AM - 08:00AM	Exercise and Ready
+08:00 AM - 06:00 PM	Office
+06:00 PM - 08:00 PM	Office and rest
+08:00 PM - 11:00 PM	Gym
+11:00 PM - 06:00 AM	Sleep
+
+
+Goals:
+Complete Docker, YDJS 1 book and typescript
+
+
+GYM
+05-Aug-24	Biceps
+06-Aug-24	Abs
+07-Aug-24	Chest
+08-Aug-24	Back
+09-Aug-24	Abs
+10-Aug-24	Legs
+11-Aug-24	Shoulder
+12-Aug-24	Biceps
+13-Aug-24	Abs
+14-Aug-24	Chest
+15-Aug-24	Back
